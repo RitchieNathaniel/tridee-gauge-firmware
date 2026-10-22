@@ -1,0 +1,8 @@
+{
+  "version": "2026.10.22.1",
+  "tabel": "0x10000",
+  "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-firmware/main/firmware-pt10000.tfw",
+  "size": 3148768,
+  "sha256": "7d6ed9ddf49c51d4b39ff637e00e78e87ef081589bd797ad7a86cbe5243aa3cb",
+  "notes": "Rilis produksi pertama RevQ Smart Gauge (beta). | Firmware produksi kini hanya menerima pembaruan bertanda tangan kunci produksi Tridee. | Unit baru didaftarkan di pabrik langsung dari portal flash RevQ."
+}
