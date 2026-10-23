@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.23.2",
+  "version": "2026.10.23.3",
   "tabel": "0x10000",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-firmware/main/firmware-pt10000.tfw",
-  "size": 3153392,
-  "sha256": "6757c0c03bfd789436353209bf8b3d0c646b85a68e638fbacf58e9149b7fb139",
-  "notes": "Busur bawah di tema RING (TORSI di BERKENDARA dan KEMUDI, RPM di BERKENDARA EV, busur MULTI GAUGE KUSTOM) kini beranimasi saat muncul. | Halaman GIGI kini beranimasi saat dibuka. | Cincin PERSNELING di tema RING kini beranimasi P, R, N, D lalu ke gigi sekarang. | Akhir animasi cincin kini selalu tepat di nilai sekarang."
+  "size": 3156816,
+  "sha256": "13eb4cd130bd6a21fe13009b1db6c5a5abf4471e732bed95d0ca4c6e4ff1981c",
+  "notes": "Animasi buka halaman kini diam 0,2 detik di posisi awal sebelum bergerak. | Ring dan jarum bawah langsung tampil di nilai sekarang tanpa animasi. | Animasi MULTI GAUGE tema JARUM lebih halus, semua jarum mulai bersamaan. | Halaman tanpa data tetap beranimasi ke maksimum lalu kembali, atau ke nilai sekarang saat data masuk. | Di tema JARUM, jarum tetap tampil dan turun halus ke 0 saat data hilang. | Di menu TAMPILAN, TEMA kini paling atas."
 }
