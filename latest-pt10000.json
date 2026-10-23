@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.23.3",
+  "version": "2026.10.23.4",
   "tabel": "0x10000",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-firmware/main/firmware-pt10000.tfw",
-  "size": 3156816,
-  "sha256": "13eb4cd130bd6a21fe13009b1db6c5a5abf4471e732bed95d0ca4c6e4ff1981c",
-  "notes": "Animasi buka halaman kini diam 0,2 detik di posisi awal sebelum bergerak. | Ring dan jarum bawah langsung tampil di nilai sekarang tanpa animasi. | Animasi MULTI GAUGE tema JARUM lebih halus, semua jarum mulai bersamaan. | Halaman tanpa data tetap beranimasi ke maksimum lalu kembali, atau ke nilai sekarang saat data masuk. | Di tema JARUM, jarum tetap tampil dan turun halus ke 0 saat data hilang. | Di menu TAMPILAN, TEMA kini paling atas."
+  "size": 3156688,
+  "sha256": "d99c608760b9743bcd78f1d0019f3df7fa8f6f262e67ed4c43f4c9c7f0692dae",
+  "notes": "Di HP Android, halaman gauge kini terbuka sendiri setelah scan QR (aktivasi maupun SETELAN HP), tanpa harus mengetuk Kelola router. | Alamat halaman gauge untuk diketik manual kini 4.3.2.1 (sebelumnya 192.168.4.1)."
 }
