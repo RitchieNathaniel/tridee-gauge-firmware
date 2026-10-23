@@ -1,8 +1,8 @@
 {
-  "version": "2026.10.22.1",
+  "version": "2026.10.23.1",
   "tabel": "0x10000",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-firmware/main/firmware-pt10000.tfw",
-  "size": 3148768,
-  "sha256": "7d6ed9ddf49c51d4b39ff637e00e78e87ef081589bd797ad7a86cbe5243aa3cb",
-  "notes": "Rilis produksi pertama RevQ Smart Gauge (beta). | Firmware produksi kini hanya menerima pembaruan bertanda tangan kunci produksi Tridee. | Unit baru didaftarkan di pabrik langsung dari portal flash RevQ."
+  "size": 3152528,
+  "sha256": "bfbec9f38c17f8860bfc8c3767d5856fd0719991cd263048e4e5eb0d831de59a",
+  "notes": "Geser ke bawah (AKTIFKAN) di pengingat aktivasi kini selalu membuka QR aktivasi. | QR aktivasi hanya tampil saat WiFi gauge sudah menyala; NANTI tidak lagi membuat gauge restart. | Animasi buka halaman kini berwarna kuning dan merah saat melewati batas ambang, sama seperti nilai sungguhan. | Gauge plus-minus (daya, arus, torsi, setir) menyapu ke ujung kiri, lalu ke ujung kanan, lalu ke nilai sekarang. | Halaman PITCH, ROLL, dan G-FORCE kini juga punya animasi buka berwarna ambang."
 }
