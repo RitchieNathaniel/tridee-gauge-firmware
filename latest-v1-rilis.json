@@ -1,0 +1,9 @@
+{
+  "version": "2026.10.25.2",
+  "tabel": "0x10000",
+  "kanal": "v1-rilis",
+  "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-firmware/main/firmware-v1-rilis.tfw",
+  "size": 3231824,
+  "sha256": "6c742c83591676b0d0459ad28b98c9a117b53a8bb1deb041878e8696b995e259",
+  "notes": "rilis v1 2026.10.25.2"
+}
