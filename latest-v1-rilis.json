@@ -1,9 +1,9 @@
 {
-  "version": "2026.10.25.2",
+  "version": "2026.10.28.1",
   "tabel": "0x10000",
   "kanal": "v1-rilis",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-firmware/main/firmware-v1-rilis.tfw",
   "size": 3231824,
-  "sha256": "6c742c83591676b0d0459ad28b98c9a117b53a8bb1deb041878e8696b995e259",
-  "notes": "rilis v1 2026.10.25.2"
+  "sha256": "534ddfd38108d1738fb4e93f256046a109f000137eff037c9ebb90da3536aa89",
+  "notes": "Saat bahasa English: halaman kode kerusakan, label TORQUE di multi gauge, dan PEDAL di bar kustom kini ikut berbahasa Inggris."
 }
