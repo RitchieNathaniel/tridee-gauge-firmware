@@ -1,9 +1,9 @@
 {
-  "version": "2026.10.28.1",
+  "version": "2026.10.28.2",
   "tabel": "0x10000",
   "kanal": "v1-rilis",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-firmware/main/firmware-v1-rilis.tfw",
   "size": 3231824,
-  "sha256": "534ddfd38108d1738fb4e93f256046a109f000137eff037c9ebb90da3536aa89",
-  "notes": "Saat bahasa English: halaman kode kerusakan, label TORQUE di multi gauge, dan PEDAL di bar kustom kini ikut berbahasa Inggris."
+  "sha256": "6ae95ba9d704bf160e9f3799622c5238bc0656adc93a070b045b6ccfbf502715",
+  "notes": "Torsi pada mobil listrik (EV) kini lebih tepat: beban AC/DC-DC tidak lagi terhitung, regen lebih akurat, dan angka tidak melompat saat berangkat."
 }
