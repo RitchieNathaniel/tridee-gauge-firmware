@@ -1,9 +1,9 @@
 {
-  "version": "2026.10.28.2",
+  "version": "2026.10.30.1",
   "tabel": "0x10000",
   "kanal": "v1-rilis",
   "url": "https://raw.githubusercontent.com/RitchieNathaniel/tridee-gauge-firmware/main/firmware-v1-rilis.tfw",
-  "size": 3231824,
-  "sha256": "6ae95ba9d704bf160e9f3799622c5238bc0656adc93a070b045b6ccfbf502715",
-  "notes": "Torsi pada mobil listrik (EV) kini lebih tepat: beban AC/DC-DC tidak lagi terhitung, regen lebih akurat, dan angka tidak melompat saat berangkat."
+  "size": 3235920,
+  "sha256": "7c8a82ec7bde3b54e1915c0adf6c92542c3cfced83d459b18642303a5cb0a6ef",
+  "notes": "Halaman kode kerusakan kini menampilkan kode dari mobil OBD-II biasa, dan kode bisa dihapus dari gauge: geser ke atas, pilih HAPUS, lalu geser ke atas lagi. Animasi pembuka halaman pada skala yang punya nilai minus kini mulai dari 0, turun ke nilai terendah, naik ke nilai tertinggi, lalu ke nilai sekarang. Rotasi otomatis SMART dan MULTI kini hanya menampilkan halaman kelasnya: layar PEDAL GAS tidak lagi ikut berputar."
 }
